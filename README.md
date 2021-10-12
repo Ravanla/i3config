@@ -13,6 +13,13 @@ The bar on the desktop is i3bar(i3status....)
 
 I found inspiration on Greshake's [i3status-rust](https://github.com/greshake/i3status-rust) and dracula_theme [dracula_theme ](https://draculatheme.com/).
 
+### fān qiáng
+The most important thing is to turn over the wall
+
+I've used shadowsocks2.6-2.7, but neither of them can effectively configure the agent in my system.
+
+[Trojan](https://portal.shadowsocks.nz/download) can use
+
 
 
 2021/10/12
